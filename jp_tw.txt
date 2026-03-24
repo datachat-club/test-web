@@ -1,0 +1,5 @@
+payload:
+  - DOMAIN-KEYWORD,reelshort
+  - DOMAIN,geolocation.onetrust.com
+  - DOMAIN-SUFFIX,appsflayer.com
+  - DOMAIN-KEYWORD,binance

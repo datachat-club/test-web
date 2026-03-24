@@ -1,0 +1,13 @@
+payload:  
+  - DOMAIN,mcs.snssdk.com
+  - DOMAIN-SUFFIX,mux.com
+  - DOMAIN-KEYWORD,fanruan
+  - DOMAIN-SUFFIX,feishucdn.com
+  - DOMAIN-KEYWORD,feishu
+  - DOMAIN-SUFFIX,zijieapi.com
+  - DOMAIN-KEYWORD,bytedance
+  - DOMAIN-KEYWORD,aliyun
+  - DOMAIN-SUFFIX,wangbooth.tech
+  - DOMAIN-KEYWORD,taobao
+  - DOMAIN,clash.razord.top
+  - DOMAIN,yacd.haishan.me
