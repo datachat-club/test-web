@@ -1,4 +1,4 @@
-# Web Rules
+# Clash Rules
 
 自定义 Shadowrocket 规则配置，每日自动从 [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) 同步基础规则，并合并本地自定义规则。
 
