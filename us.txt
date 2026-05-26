@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,appspot.com
   - DOMAIN-SUFFIX,unity.com
   - DOMAIN-SUFFIX,brightdata.com
   - DOMAIN-SUFFIX,jina.ai
