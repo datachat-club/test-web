@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-KEYWORD,tiktok
   - DOMAIN-KEYWORD,halocard
   - DOMAIN-SUFFIX,lobehub.com
   - DOMAIN-SUFFIX,appspot.com
