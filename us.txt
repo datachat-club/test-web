@@ -56,4 +56,6 @@ payload:
   - DOMAIN-SUFFIX,o33249.ingest.sentry.io
   - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-SUFFIX,twitter.com
-  - DOMAIN-SUFFIX,x.com    
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,grok.com
