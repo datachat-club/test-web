@@ -3,3 +3,4 @@ payload:
   - DOMAIN,geolocation.onetrust.com
   - DOMAIN-SUFFIX,appsflayer.com
   - DOMAIN-KEYWORD,binance
+  - DOMAIN-SUFFIX,github.com
