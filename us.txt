@@ -1,32 +1,32 @@
 payload:
   - DOMAIN-SUFFIX,ctexcel.com
   - DOMAIN-SUFFIX,hubspotlinks.com
-  - DOMAIN-SUFFIX,awwwards.com
-  - DOMAIN-KEYWORD,tiktok
+  # - DOMAIN-SUFFIX,awwwards.com
+  # - DOMAIN-KEYWORD,tiktok
   - DOMAIN-KEYWORD,halocard
   - DOMAIN-SUFFIX,lobehub.com
-  - DOMAIN-SUFFIX,appspot.com
-  - DOMAIN-SUFFIX,unity.com
-  - DOMAIN-SUFFIX,brightdata.com
-  - DOMAIN-SUFFIX,jina.ai
-  - DOMAIN-SUFFIX,gamma.app
-  - DOMAIN-SUFFIX,luma.com
-  - DOMAIN-SUFFIX,shorttv.live
-  - DOMAIN-SUFFIX,turing.com
+  # - DOMAIN-SUFFIX,appspot.com
+  # - DOMAIN-SUFFIX,unity.com
+  # - DOMAIN-SUFFIX,brightdata.com
+  # - DOMAIN-SUFFIX,jina.ai
+  # - DOMAIN-SUFFIX,gamma.app
+  # - DOMAIN-SUFFIX,luma.com
+  # - DOMAIN-SUFFIX,shorttv.live
+  # - DOMAIN-SUFFIX,turing.com
   - DOMAIN-KEYWORD,flowith
   - DOMAIN-KEYWORD,youmind
   - DOMAIN-SUFFIX,wyo.gov
   - DOMAIN-KEYWORD,elevenlabs
   - DOMAIN-SUFFIX,lumalabs.ai
-  - DOMAIN-SUFFIX,substack.com
-  - DOMAIN-SUFFIX,diabrowser.com
+  # - DOMAIN-SUFFIX,substack.com
+  # - DOMAIN-SUFFIX,diabrowser.com
   - DOMAIN-KEYWORD,manus
   - DOMAIN-KEYWORD,oaistatic
-  - DOMAIN-KEYWORD,intercomcdn
-  - DOMAIN-KEYWORD,azure
-  - DOMAIN-SUFFIX,hashnode.com
-  - DOMAIN-KEYWORD,github
-  - DOMAIN-KEYWORD,google
+  # - DOMAIN-KEYWORD,intercomcdn
+  # - DOMAIN-KEYWORD,azure
+  # - DOMAIN-SUFFIX,hashnode.com
+  # - DOMAIN-KEYWORD,github
+  # - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,gemini
   - DOMAIN,ping0.cc
   - DOMAIN-SUFFIX,nexitallysafe.com
@@ -34,9 +34,9 @@ payload:
   - DOMAIN-SUFFIX,hccfl.edu
   - DOMAIN-KEYWORD,reddit
   - DOMAIN-SUFFIX,t.co
-  - DOMAIN-SUFFIX,bandwagonhost.com
-  - DOMAIN-SUFFIX,myip4.dtops.cn
-  - DOMAIN-KEYWORD,stripe
+  # - DOMAIN-SUFFIX,bandwagonhost.com
+  # - DOMAIN-SUFFIX,myip4.dtops.cn
+  # - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,anthropic
   - DOMAIN-KEYWORD,claude
   - DOMAIN-SUFFIX,ai.com
@@ -57,7 +57,7 @@ payload:
   - DOMAIN-SUFFIX,ios.chat.openai.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,client.crisp.chat
   - DOMAIN-SUFFIX,o33249.ingest.sentry.io
-  - DOMAIN-KEYWORD,cloudflare
+  # - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,x.ai
