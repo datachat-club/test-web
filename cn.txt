@@ -1,5 +1,4 @@
-payload:  
-  - IP-CIDR,152.32.214.64/32
+payload:
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,timestamp.apple.com
   - DOMAIN,mcs.snssdk.com
