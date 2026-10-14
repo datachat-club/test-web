@@ -15,7 +15,6 @@ RAW_CONF_URL = "https://raw.githubusercontent.com/datachat-club/test-web/refs/he
 # Ordered mapping: filename -> Shadowrocket action
 RULE_FILES = [
     ("us.txt", "PROXY"),
-    ("jp_tw.txt", "PROXY"),
     ("cn.txt", "DIRECT"),
 ]
 
@@ -83,7 +82,6 @@ def generate_readme() -> str:
 | 文件 | 动作 | 说明 |
 |------|------|------|
 | `us.txt` | PROXY | 需要代理的境外服务 |
-| `jp_tw.txt` | PROXY | 日本/台湾相关服务 |
 | `cn.txt` | DIRECT | 直连的国内/特定服务 |
 
 ## 自动更新

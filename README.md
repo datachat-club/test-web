@@ -17,7 +17,6 @@ https://raw.githubusercontent.com/datachat-club/test-web/refs/heads/master/white
 | 文件 | 动作 | 说明 |
 |------|------|------|
 | `us.txt` | PROXY | 需要代理的境外服务 |
-| `jp_tw.txt` | PROXY | 日本/台湾相关服务 |
 | `cn.txt` | DIRECT | 直连的国内/特定服务 |
 
 ## 自动更新
