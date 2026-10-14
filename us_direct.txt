@@ -1,0 +1,8 @@
+payload:
+  # US datacenter exit (直出), NOT residential. Ex-jp_tw rules (Japan route retired 2026-10-14)
+  - DOMAIN-KEYWORD,proton
+  - DOMAIN-KEYWORD,reelshort
+  - DOMAIN,geolocation.onetrust.com
+  - DOMAIN-SUFFIX,appsflayer.com
+  - DOMAIN-KEYWORD,binance
+  - DOMAIN-SUFFIX,github.com

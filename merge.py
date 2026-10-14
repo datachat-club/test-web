@@ -15,6 +15,7 @@ RAW_CONF_URL = "https://raw.githubusercontent.com/datachat-club/test-web/refs/he
 # Ordered mapping: filename -> Shadowrocket action
 RULE_FILES = [
     ("us.txt", "PROXY"),
+    ("us_direct.txt", "PROXY"),
     ("cn.txt", "DIRECT"),
 ]
 
@@ -81,7 +82,8 @@ def generate_readme() -> str:
 
 | 文件 | 动作 | 说明 |
 |------|------|------|
-| `us.txt` | PROXY | 需要代理的境外服务 |
+| `us.txt` | PROXY | 需要代理的境外服务（Clash 走美国住宅） |
+| `us_direct.txt` | PROXY | 境外服务，Clash 走美国服务器直出（不占住宅） |
 | `cn.txt` | DIRECT | 直连的国内/特定服务 |
 
 ## 自动更新
